@@ -1,0 +1,1 @@
+Um cronômetro que conta o tempo regressivamente ao inserir as horas, minutos e segundos desejados.
